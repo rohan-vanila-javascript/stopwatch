@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+  background: bisque;
+  text-align: center;
+  margin-top: 5rem;
+  padding: 1rem;
+}
+.timer {
+  margin-top: 2rem;
+}
+.buttons {
+  margin-top: 1rem;
+}
+button {
+  padding: 5px;
+  border: 1px solid palevioletred;
+  background: rgb(248, 130, 87);
+  border-radius: 2px/3px;
+}
+button:hover {
+  background: transparent;
+}
